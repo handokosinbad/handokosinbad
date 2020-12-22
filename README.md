@@ -25,8 +25,8 @@ I write thesis about Machine Learning at my Bachelor Degree for [**DETEKSI MOOD 
 **NOTE**: *I do Code on Private Repository and Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 <a href="https://github.com/SiswoHandoko/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=handokosinbad&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=handokosinbad&count_private=true&show_icons=true&theme=buefy&hide_border=false" />
 </a> 
 <a href="https://github.com/SiswoHandoko/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handokosinbad&layout=compact&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handokosinbad&layout=compact&theme=buefy&hide_border=false" />
 </a>
