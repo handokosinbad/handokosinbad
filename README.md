@@ -4,7 +4,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=purple&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/siswo-handoko)
 [![Facebook URL](https://img.shields.io/static/v1?color=purple&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/seishiroando)
 
-**A Father who speak with Javascript, Typescript, Python, PHP, and Learn Go, I am a Software Enginer, Trainer and Mentor,Entrepreneur Novice, Sometimes I do Freelance, Gamer and Tech Enthusiast.**
+**A Father who speak with Javascript, Typescript, Python, PHP, and GoLang, I am a Software Enginer, Trainer and Mentor,Entrepreneur Novice, Sometimes I do Freelance, Gamer and Tech Enthusiast.**
 
 I love to sharing my knowledge and experience, dont hesitate to contact me! 
 
